@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "루미",
+    "timestamp": "2026-09-19T15:04:20.996Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "통로 언니 루미",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "VIP 클럽 예약",
+      "파인다이닝",
+      "프리미엄 에스테틱"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "방콕 통로의 프라이빗 럭셔리 라이프스타일 가이드."
+  }
+}
